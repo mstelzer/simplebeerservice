@@ -26,10 +26,10 @@ software license above.
 /* CONSTANTS */
 // ============ CHANGE THESE VALUES BELOW =============== //
 
-var COGNITO_IDENTITY_POOL = '<YOUR_COGNITO_IDENTITY_POOL_ID>';
+var COGNITO_IDENTITY_POOL = 'us-east-1:71cf65e1-ca17-49f8-8061-647dc002730c';
 var IOT_REGION = 'us-east-1';
 var IOTENDPOINT = 'data.iot.'+IOT_REGION+'.amazonaws.com';
-var TOPIC = 'sbs';
+var TOPIC = 'sbsdev';
 
 // ============ REST OF CODE =============== //
 
